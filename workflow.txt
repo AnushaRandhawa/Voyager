@@ -1,6 +1,18 @@
 WORKFLOW 1: BY ANUSHA
 
---content here--
+Name: Collaborative Expense Splitting
+Actor: Trip Participant / Payer
+Pre-condition: User is logged into the app and is a member of an active "Trip Group."
+
+Steps:
+1. User navigates to the Expenses tab and clicks the "+" (Add Expense) button.
+2. User enters the total amount spent (e.g., 5000 PKR) and selects a category (e.g., Transport).
+3. User selects the specific group members involved in this specific expense.
+4. User chooses the Split Equally calculation method.
+5. User uploads a photo of the receipt (optional) and clicks Confirm.
+6. The system calculates the individual shares and updates the "Who Owes Whom" dashboard for every member in the group.
+
+Post-condition: The central ledger is updated, and all involved members receive a notification of the new pending debt.
 
 ____________________________________________________________________________________
 
