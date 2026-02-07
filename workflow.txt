@@ -4,9 +4,21 @@ WORKFLOW 1: BY ANUSHA
 
 ____________________________________________________________________________________
 
-WORKFLOW 2: BY TAHIRA
+WORKFLOW 2: BY TAHERA
 
---content here--
+Name: Shared Trip Essentials Checklist
+Actor: Trip Organizer / Group Member
+Pre-condition: A trip destination has been created in the app.
+
+Steps:
+1. User opens the Checklist section and selects the "Create New List" option.
+2. User enters a title for the checklist (e.g., "Camping Gear") and adds items such as "Tent" and "Sleeping Bag."
+3. Another group member views the checklist in real-time and clicks the "Assign to Me" option for a specific item (e.g., "Tent").
+4. As members pack items, they click the checkbox next to each item to mark it as completed.
+5. The system updates and displays a progress bar (e.g., "75% Packed") visible to all group members.
+6. The system detects any "Unassigned" items 24 hours before the trip and sends a reminder notification to the group.
+
+Post-condition: The checklist is synchronized in real-time, and the group has a clear view of trip readiness, minimizing the risk of forgotten items.
 
 ____________________________________________________________________________________
 
