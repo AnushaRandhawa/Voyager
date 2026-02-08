@@ -36,6 +36,18 @@ ________________________________________________________________________________
 
 WORKFLOW 3: BY HIBA
 
---content here--
+Name: Daily Itinerary & Schedule Management
+Actor: Trip Lead / Group Member
+Pre-condition: The trip dates have been set within the application.
+
+Steps:
+
+1. User navigates to the Timeline view and selects a specific day of the trip.
+2. User clicks Add Event to create a time-blocked slot (e.g., "08:00 AM - Breakfast at Hotel").
+3. User adds a location (e.g., Departure for Neelum Valley").
+4. The system saves the event and syncs it to every group member's personal in-app calendar.
+5. The system triggers a push notification to all members 15 minutes before the next scheduled activity.
+
+Post-condition: All travelers are kept on the same page regarding the daily plan, reducing delays and communication gaps.
 
 ____________________________________________________________________________________
